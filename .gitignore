@@ -130,4 +130,5 @@ dmypy.json
 
 *.mp4
 *.gif
+*.jpg
 /output
